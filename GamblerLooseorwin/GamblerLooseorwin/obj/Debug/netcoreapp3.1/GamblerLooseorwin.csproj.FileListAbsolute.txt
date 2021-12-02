@@ -1,0 +1,14 @@
+E:\fellowship\gambling\GamblerLooseorwin\GamblerLooseorwin\bin\Debug\netcoreapp3.1\GamblerLooseorwin.exe
+E:\fellowship\gambling\GamblerLooseorwin\GamblerLooseorwin\bin\Debug\netcoreapp3.1\GamblerLooseorwin.deps.json
+E:\fellowship\gambling\GamblerLooseorwin\GamblerLooseorwin\bin\Debug\netcoreapp3.1\GamblerLooseorwin.runtimeconfig.json
+E:\fellowship\gambling\GamblerLooseorwin\GamblerLooseorwin\bin\Debug\netcoreapp3.1\GamblerLooseorwin.runtimeconfig.dev.json
+E:\fellowship\gambling\GamblerLooseorwin\GamblerLooseorwin\bin\Debug\netcoreapp3.1\GamblerLooseorwin.dll
+E:\fellowship\gambling\GamblerLooseorwin\GamblerLooseorwin\bin\Debug\netcoreapp3.1\GamblerLooseorwin.pdb
+E:\fellowship\gambling\GamblerLooseorwin\GamblerLooseorwin\obj\Debug\netcoreapp3.1\GamblerLooseorwin.csproj.AssemblyReference.cache
+E:\fellowship\gambling\GamblerLooseorwin\GamblerLooseorwin\obj\Debug\netcoreapp3.1\GamblerLooseorwin.GeneratedMSBuildEditorConfig.editorconfig
+E:\fellowship\gambling\GamblerLooseorwin\GamblerLooseorwin\obj\Debug\netcoreapp3.1\GamblerLooseorwin.AssemblyInfoInputs.cache
+E:\fellowship\gambling\GamblerLooseorwin\GamblerLooseorwin\obj\Debug\netcoreapp3.1\GamblerLooseorwin.AssemblyInfo.cs
+E:\fellowship\gambling\GamblerLooseorwin\GamblerLooseorwin\obj\Debug\netcoreapp3.1\GamblerLooseorwin.csproj.CoreCompileInputs.cache
+E:\fellowship\gambling\GamblerLooseorwin\GamblerLooseorwin\obj\Debug\netcoreapp3.1\GamblerLooseorwin.dll
+E:\fellowship\gambling\GamblerLooseorwin\GamblerLooseorwin\obj\Debug\netcoreapp3.1\GamblerLooseorwin.pdb
+E:\fellowship\gambling\GamblerLooseorwin\GamblerLooseorwin\obj\Debug\netcoreapp3.1\GamblerLooseorwin.genruntimeconfig.cache
